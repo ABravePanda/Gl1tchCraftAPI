@@ -1,0 +1,4 @@
+name: Gl1tchCraftAPI
+version: 1
+main: me.gl1tchcraft.api.Main
+description: The Gl1tchCraft API Plugin
